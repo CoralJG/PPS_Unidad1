@@ -11,7 +11,7 @@ if __name__ == "__main__":
         print("Error: Debes introducir un número entero válido.")
     else:
         # Lista donde se comprobará si el valor está presente
-        lista_numeros = [8, 16, 20, 4, 2, 6, 18, 1]
+        lista_numeros = [6, 14, 11, 3, 2, 1, 15, 19]
 
         # Comprobamos si el valor está dentro del rango 1 a 20
         if estaEnRango(valor, 1, 20):
