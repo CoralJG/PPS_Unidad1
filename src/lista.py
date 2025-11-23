@@ -1,5 +1,5 @@
 # src/lista.py
-# Importamos las funciones estaEnRango y estaEnLista desde el módulo funciones
+# Importamos las funciones estaEnRango y estaEnLista desde el módulo1 funciones
 from modulo1.funciones import estaEnRango, estaEnLista
 
 if __name__ == "__main__":
